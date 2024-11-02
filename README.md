@@ -16,10 +16,12 @@ Libray: Tkinter
 
 External Font Used: Arial Rounded MT Bold
 
+External audio used: .wav file given
+
 External Font Used
 -
 Install the ttf file given in folder.
 
 Want to run .exe file on windows?
 -
-Download the .exe file from given files to run the this timer application on windows directly.
+Download the .exe file from given files to run this timer application on windows directly.
