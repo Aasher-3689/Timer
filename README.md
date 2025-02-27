@@ -1,8 +1,14 @@
 Should have installed Tkinter in python
 -
-Command for windows: *pip install tk*
+Command for windows: 
+```
+pip install tk
+```
 
-Command for linux: *sudo apt-get install python3-tk*
+Command for linux:
+```
+sudo apt-get install python3-tk
+```
 
 Preview
 -
